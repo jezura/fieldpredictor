@@ -6,4 +6,4 @@ app = flask.Flask(__name__)
 @app.route('/', methods=['GET'])
 def home():
     year = int(request.args['year'])
-    return 2020
+    return year
