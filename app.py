@@ -1,9 +1,7 @@
-import flask
-from flask import request
 
-app = flask.Flask(__name__)
+from flask import Flask
+app = Flask(__name__)
 
-@app.route('/', methods=['GET'])
-def home():
-    year = int(request.args['year'])
-    return year
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
