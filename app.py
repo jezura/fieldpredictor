@@ -15,7 +15,7 @@ def return_prediction(model, scaler):
 app = Flask(__name__)
 
 # Loading the model
-my_model = load_model('/model/final_fieldpredictor_model.h5')
+my_model = load_model("/model/final_fieldpredictor_model.h5")
 my_scaler = joblib.load("/model/myScaler.pkl")
 
 
