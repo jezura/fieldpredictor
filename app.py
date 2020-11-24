@@ -14,7 +14,9 @@ def return_prediction(model, scaler):
         0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 55
     ]])))
 
-    return pred
+    number=pred[0][0]
+
+    return number
 
 
 
@@ -34,7 +36,7 @@ my_scaler = joblib.load("myScaler.pkl")
 @app.route('/prediction')
 def prediction():
     results = return_prediction(model=my_model, scaler=my_scaler)
-    return results
+    return 'Výsledek' + results
 
 
 if __name__ == '__main__':
