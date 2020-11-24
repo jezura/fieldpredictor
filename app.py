@@ -12,7 +12,7 @@ def getData():
     dataset = pd.read_csv('data/data.csv',encoding= 'unicode_escape')
     X = dataset.iloc[:, 0:4].values
     Y = dataset.iloc[:, 5:21].values
-    return X[1]
+    return 'OK'
 
 
 @app.route('/', methods=['GET'])
