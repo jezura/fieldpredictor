@@ -34,9 +34,9 @@ my_scaler = joblib.load("myScaler.pkl")
 
 
 @app.route('/prediction')
-def prediction():
+def prediction() -> int:
     results = return_prediction(model=my_model, scaler=my_scaler)
-    return 'Výsledek' + results
+    return results
 
 
 if __name__ == '__main__':
