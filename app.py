@@ -21,5 +21,5 @@ my_scaler = joblib.load("/model/myScaler.pkl")
 
 @app.route('/prediciton')
 def prediction():
-    results = return_prediction(model=my_model, scaler=my_scaler)
+    results = return_prediction(my_model, my_scaler)
     return results
