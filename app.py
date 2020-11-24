@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 
 @app.route('/prepare-data')
-def getAndPrepareData():
+def getAndPrepareData() -> int:
     dataset = pd.read_csv('data/data.csv',encoding= 'unicode_escape')
     X = dataset.iloc[:, 0:4].values
     Y = dataset.iloc[:, 5:21].values
