@@ -1,0 +1,166 @@
+Pohlaví,Vìk,Dosažený stupeò vzdìlání,Obecný obor nebo typ školy,Obecný pracovní obor,Administrativa,Doprava,Finance,IT,Právo,Kultura a sport,Management,Obchod,Obrana a ochrana,Stavebnictví,Vìda a výzkum,Výchova a vzdìlávání,Výroba a provoz,Služby,Zdravotnictví,Zemìdìlství a lesnictví
+Žena,20,Vyšší odborné,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,25,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,23,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Žena,20,Vysokoškolské magisterské (inženýrské),Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,43,Vysokoškolské magisterské (inženýrské),Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Vìda a výzkum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Žena,19,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,30,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,18,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,48,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,46,Vysokoškolské bakaláøské,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,22,Vysokoškolské magisterské (inženýrské),Zemìdìlství_lesnictví,Kultura a sport,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Žena,25,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,53,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,34,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,48,Vysokoškolské magisterské (inženýrské),Typ školy: obecný pøehled (obor) - Gymnázium,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Žena,47,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,50,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,31,Vysokoškolské bakaláøské,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,42,Výuèní list nebo Støedoškolské bez maturity,Stavebnictví,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Žena,32,Vyšší odborné,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,28,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,59,Vysokoškolské magisterské (inženýrské),Elektrotechnika_technika_mechanika_prùmysl,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,65,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,47,Vysokoškolské doktorské,Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,36,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,19,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,23,Vysokoškolské bakaláøské,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,48,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,20,Støedoškolské s maturitou,Øemesla,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,46,Støedoškolské s maturitou,Obchod a ekonomie,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,48,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,23,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Žena,22,Vysokoškolské doktorské,Pøírodní_vìdy,Vìda a výzkum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Žena,20,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,18,Støedoškolské s maturitou,Obchod a ekonomie,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Muž,20,Výuèní list nebo Støedoškolské bez maturity,Elektrotechnika_technika_mechanika_prùmysl,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,20,Výuèní list nebo Støedoškolské bez maturity,Stavebnictví,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Žena,45,Støedoškolské s maturitou,Sluzby,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,22,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,43,Výuèní list nebo Støedoškolské bez maturity,Stavebnictví,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,20,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,21,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,23,Vysokoškolské magisterské (inženýrské),Sluzby,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Žena,26,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Žena,25,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,32,Vyšší odborné,Zemìdìlství_lesnictví,Zemìdìlství a lesnictví,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Žena,24,Vysokoškolské bakaláøské,Sluzby,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,47,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,33,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Muž,46,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,25,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,25,Vysokoškolské magisterské (inženýrské),Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,51,Støedoškolské s maturitou,Sluzby,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,22,Základní,Typ školy: obecný pøehled (obor) - Gymnázium,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,44,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,24,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,19,Støedoškolské s maturitou,Obchod a ekonomie,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,22,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,29,Støedoškolské s maturitou,Zemìdìlství_lesnictví,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,49,Støedoškolské s maturitou,Doprava a logistika,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,48,Výuèní list nebo Støedoškolské bez maturity,Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,21,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,22,Støedoškolské s maturitou,Obchod a ekonomie,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,22,Vysokoškolské magisterské (inženýrské),Sluzby,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,20,Vysokoškolské magisterské (inženýrské),Právo,Právo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Muž,28,Støedoškolské s maturitou,Umìní,Kultura a sport,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Žena,19,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,26,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,21,Vysokoškolské bakaláøské,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,44,Vyšší odborné,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,20,Vysokoškolské magisterské (inženýrské),Stavebnictví,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Žena,24,Vysokoškolské bakaláøské,Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,24,Vyšší odborné,Pøírodní_vìdy,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,55,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,22,Støedoškolské s maturitou,Informatika a mangement,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Muž,45,Vysokoškolské bakaláøské,Teologie,Kultura a sport,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Muž,23,Vysokoškolské bakaláøské,Obchod a ekonomie,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Muž,56,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,29,Vysokoškolské magisterské (inženýrské),Pøírodní_vìdy,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,20,Støedoškolské s maturitou,Obchod a ekonomie,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Muž,29,Vysokoškolské bakaláøské,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,47,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,47,Výuèní list nebo Støedoškolské bez maturity,Elektrotechnika_technika_mechanika_prùmysl,Doprava,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,55,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Muž,27,Vysokoškolské bakaláøské,Obchod a ekonomie,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,30,Vysokoškolské bakaláøské,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,46,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,21,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,48,Vyšší odborné,Umìní,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,23,Vysokoškolské bakaláøské,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,24,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,23,Vysokoškolské magisterské (inženýrské),Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,24,Vysokoškolské bakaláøské,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,23,Vysokoškolské bakaláøské,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,19,Vysokoškolské bakaláøské,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,21,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Muž,20,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,45,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,22,Støedoškolské s maturitou,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,24,Vysokoškolské doktorské,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,22,Vysokoškolské magisterské (inženýrské),Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,58,Støedoškolské s maturitou,Zdravotnictví a medicína (vè. veteriny),Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Muž,61,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,60,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Doprava,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,60,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,58,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,37,Vysokoškolské magisterské (inženýrské),Zdravotnictví a medicína (vè. veteriny),Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,54,Støedoškolské s maturitou,Obrana a ochrana,Obrana a ochrana,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Muž,22,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Muž,57,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Muž,24,Vysokoškolské bakaláøské,Zdravotnictví a medicína (vè. veteriny),Obrana a ochrana,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Žena,41,Vysokoškolské magisterské (inženýrské),Zdravotnictví a medicína (vè. veteriny),Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,52,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,35,Vysokoškolské magisterské (inženýrské),Zdravotnictví a medicína (vè. veteriny),Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,60,Støedoškolské s maturitou,Obchod a ekonomie,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,15,Základní,Typ školy: obecný pøehled (obor) - Gymnázium,Právo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Muž,37,Støedoškolské s maturitou,Øemesla,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Muž,35,Výuèní list nebo Støedoškolské bez maturity,Zemìdìlství_lesnictví,Zemìdìlství a lesnictví,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Muž,44,Výuèní list nebo Støedoškolské bez maturity,Øemesla,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,20,Støedoškolské s maturitou,Sluzby,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,20,Vysokoškolské magisterské (inženýrské),Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,37,Støedoškolské s maturitou,Sluzby,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,59,Vysokoškolské bakaláøské,Teologie,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,49,Støedoškolské s maturitou,Sluzby,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,42,Vyšší odborné,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,40,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,41,Vysokoškolské magisterské (inženýrské),Elektrotechnika_technika_mechanika_prùmysl,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,53,Vysokoškolské magisterské (inženýrské),Stavebnictví,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Muž,23,Vysokoškolské bakaláøské,Obchod a ekonomie,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Muž,20,Výuèní list nebo Støedoškolské bez maturity,Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Žena,22,Støedoškolské s maturitou,Sluzby,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,46,Støedoškolské s maturitou,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,27,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,29,Støedoškolské s maturitou,Typ školy: obecný pøehled (obor) - Gymnázium,Obchod a cestovní ruch (vèetnì prodavaèù),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Žena,25,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,26,Støedoškolské s maturitou,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,27,Vysokoškolské magisterské (inženýrské),Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Žena,24,Vysokoškolské bakaláøské,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,23,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,21,Vysokoškolské bakaláøské,Pøírodní_vìdy,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Muž,26,Vysokoškolské bakaláøské,Obchod a ekonomie,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,29,Vysokoškolské magisterské (inženýrské),Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Vìda a výzkum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Žena,26,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,24,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Obrana a ochrana,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Žena,48,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Žena,41,Vysokoškolské magisterské (inženýrské),Pedagogika_uèitelství_tìlovýchova,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Žena,24,Vysokoškolské magisterské (inženýrské),Informatika a mangement,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,46,Vyšší odborné,Zdravotnictví a medicína (vè. veteriny),Zdravotnictví (vè. veteriny),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Žena,28,Vysokoškolské bakaláøské,Zdravotnictví a medicína (vè. veteriny),Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,25,Vysokoškolské magisterské (inženýrské),Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Doprava,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,21,Vysokoškolské bakaláøské,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,46,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,33,Výuèní list nebo Støedoškolské bez maturity,Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,27,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Kultura a sport,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Muž,36,Výuèní list nebo Støedoškolské bez maturity,Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,31,Støedoškolské s maturitou,Filosofie_politologie_historie_žurnalistika_psychologie_sociologie_veøejná-správa,Obrana a ochrana,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Muž,35,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Finance,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Žena,30,Vysokoškolské magisterské (inženýrské),Obchod a ekonomie,Management,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Muž,39,Vyšší odborné,Stavebnictví,Stavebnictví,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Žena,38,Výuèní list nebo Støedoškolské bez maturity,Sluzby,Služby,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Muž,24,Støedoškolské s maturitou,Obchod a ekonomie,Administrativa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muž,47,Støedoškolské s maturitou,Elektrotechnika_technika_mechanika_prùmysl,Výroba_a_provoz,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Muž,49,Støedoškolské s maturitou,Doprava a logistika,Výchova a vzdìlávání,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Muž,23,Støedoškolské s maturitou,Informatika a mangement,Obrana a ochrana,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Muž,23,Vysokoškolské bakaláøské,Informatika a mangement,Informaèní technologie,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
