@@ -7,9 +7,9 @@ import pandas as pd
 import keras
 app = Flask(__name__)
 
-@app.route('data/get-data', methods=['GET'])
+@app.route('/get-data', methods=['GET'])
 def getData():
-    dataset = pd.read_csv('data.csv',encoding= 'unicode_escape')
+    dataset = pd.read_csv('data/data.csv',encoding= 'unicode_escape')
     X = dataset.iloc[:, 0:4].values
     Y = dataset.iloc[:, 5:21].values
     return X
