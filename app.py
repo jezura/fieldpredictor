@@ -14,9 +14,9 @@ def return_prediction(model, scaler):
         0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 55
     ]])))
 
-    number=pred[0][0]
+    pred=pred[0]
 
-    return number
+    return pred
 
 
 
