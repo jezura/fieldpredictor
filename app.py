@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import keras
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+from sklearn.pipeline import Pipeline
 app = Flask(__name__)
 
 def getData():
@@ -14,8 +16,6 @@ def getData():
     return 1
 
 def encodaData():
-    from sklearn.preprocessing import LabelEncoder, OneHotEncoder
-    from sklearn.pipeline import Pipeline
     lcpohlavi = LabelEncoder()
     X[:, 0] = lcpohlavi.fit_transform(X[:, 0])
     X
