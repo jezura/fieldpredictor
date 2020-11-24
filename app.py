@@ -23,7 +23,6 @@ def getAndPrepareData():
     lcobor = LabelEncoder()
     X[:, 3] = lcobor.fit_transform(X[:, 3])
     print(X[1])
-    return 'OK'
 
 
 @app.route('/', methods=['GET'])
