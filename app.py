@@ -15,11 +15,11 @@ def return_prediction(model, scaler):
 app = Flask(__name__)
 
 # Loading the model
-my_model = load_model("/model/final_fieldpredictor_model.h5")
-my_scaler = joblib.load("/model/myScaler.pkl")
+my_model = load_model("model/final_fieldpredictor_model.h5")
+my_scaler = joblib.load("model/myScaler.pkl")
 
 
-@app.route('/prediciton')
+@app.route('/prediction')
 def prediction():
     results = return_prediction(my_model, my_scaler)
     return results
