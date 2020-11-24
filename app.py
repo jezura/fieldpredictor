@@ -22,7 +22,8 @@ def getAndPrepareData():
     X[:, 2] = lcvzdelani.fit_transform(X[:, 2])
     lcobor = LabelEncoder()
     X[:, 3] = lcobor.fit_transform(X[:, 3])
-    return X[1]
+    print(X[1])
+    return 'OK'
 
 
 @app.route('/', methods=['GET'])
