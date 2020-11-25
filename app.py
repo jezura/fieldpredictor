@@ -1,5 +1,6 @@
 from flask import Flask, render_template, session, redirect, url_for, session
 from flask_wtf import FlaskForm
+from flask import request
 from wtforms import TextField,SubmitField
 from wtforms.validators import NumberRange
 
@@ -9,7 +10,7 @@ import joblib
 
 
 
-def return_prediction(model, scaler):
+def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
     pred = model.predict(scaler.transform(np.array([[
         0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 55
     ]])))
@@ -33,9 +34,15 @@ my_scaler = joblib.load("myScaler.pkl")
 
 
 
-@app.route('/get-jobfields-relevance-scores')
+@app.route('/get-jobfields-relevance-scores', methods=['GET'])
 def prediction():
-    results = return_prediction(model=my_model, scaler=my_scaler)
+    gender = request.args['gender']
+    age = request.args['age']
+    edu_lvl = request.args['edu_lvl']
+    edu_field = request.args['edu_field']
+
+    results = make_predictions(model=my_model, scaler=my_scaler,
+                               gender=gender, age=age, edu_lvl=edu_lvl, edu_field=edu_field)
     return (str(results[0]) + '<br>'
             + str(results[1]) + '<br>'
             + str(results[2]) + '<br>'
@@ -51,7 +58,7 @@ def prediction():
             + str(results[12]) + '<br>'
             + str(results[13]) + '<br>'
             + str(results[14]) + '<br>'
-            + str(results[15]) + '<br>')
+            + str(results[15]) + '<br>' + str(gender) + '<br>' + str(age))
 
 
 if __name__ == '__main__':
