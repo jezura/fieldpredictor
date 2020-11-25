@@ -166,8 +166,8 @@ def prediction():
             + str(results[11]) + '<br>'
             + str(results[12]) + '<br>'
             + str(results[13]) + '<br>'
-            + str(results[14]) + '<br>'
-            + str(results[15]) + '<br>')
+            + str(results[14]) + '<br>')
+           # + str(results[15]) + '<br>')
 
 
 if __name__ == '__main__':
