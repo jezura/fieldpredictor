@@ -127,8 +127,7 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
     final_array_list = list(arr)
 
     pred = model.predict(scaler.transform(np.array([final_array_list])))
-
-    # pred = pred[0]
+    pred = pred[0]
 
     return pred
 
@@ -166,8 +165,8 @@ def prediction():
             + str(results[11]) + '<br>'
             + str(results[12]) + '<br>'
             + str(results[13]) + '<br>'
-            + str(results[14]) + '<br>')
-           # + str(results[15]) + '<br>')
+            + str(results[14]) + '<br>'
+            + str(results[15]) + '<br>')
 
 
 if __name__ == '__main__':
