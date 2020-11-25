@@ -148,10 +148,10 @@ my_scaler = joblib.load("myScaler.pkl")
 
 @app.route('/get-jobfields-relevance-scores', methods=['GET'])
 def prediction():
-    gender = request.args['gender']
-    age = request.args['age']
-    edu_lvl = request.args['edu_lvl']
-    edu_field = request.args['edu_field']
+    gender = int(request.args['gender'])
+    age = int(request.args['age'])
+    edu_lvl = int(request.args['edu_lvl'])
+    edu_field = int(request.args['edu_field'])
 
     results = make_predictions(model=my_model, scaler=my_scaler,
                                gender=gender, age=age, edu_lvl=edu_lvl, edu_field=edu_field)
