@@ -36,6 +36,10 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         edu_lvl_code = edu_lvl_codes[5]
     elif edu_lvl == 6:
         edu_lvl_code = edu_lvl_codes[6]
+    else:
+        edu_lvl_code = [0]
+
+    np_arr2 = np.array(edu_lvl_code)
 
 
     edu_field_codes = [
@@ -113,9 +117,10 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         edu_field_code = edu_field_codes[16]
     elif edu_field == 17:
         edu_field_code = edu_field_codes[17]
+    else:
+        edu_field_code = [0]
 
     np_arr1 = np.array(edu_field_code)
-    np_arr2 = np.array(edu_lvl_code)
     np_arr3 = np.array([gender])
     np_arr4 = np.array([age])
 
