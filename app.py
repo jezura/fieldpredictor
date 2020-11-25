@@ -36,7 +36,22 @@ my_scaler = joblib.load("myScaler.pkl")
 @app.route('/get-jobfields-relevance-scores')
 def prediction():
     results = return_prediction(model=my_model, scaler=my_scaler)
-    return str(results[0]) + '<br>' + str(results[1])
+    return (str(results[0]) + '<br>'
+            + str(results[1]) + '<br>'
+            + str(results[2]) + '<br>'
+            + str(results[3]) + '<br>'
+            + str(results[4]) + '<br>'
+            + str(results[5]) + '<br>'
+            + str(results[6]) + '<br>'
+            + str(results[7]) + '<br>'
+            + str(results[8]) + '<br>'
+            + str(results[9]) + '<br>'
+            + str(results[10]) + '<br>'
+            + str(results[11]) + '<br>'
+            + str(results[12]) + '<br>'
+            + str(results[13]) + '<br>'
+            + str(results[14]) + '<br>'
+            + str(results[15]) + '<br>')
 
 
 if __name__ == '__main__':
