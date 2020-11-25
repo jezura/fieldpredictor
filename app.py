@@ -10,7 +10,7 @@ import joblib
 
 
 def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
-    #data and codes
+    # data and codes
 
     edu_lvl_codes = [
         [0, 0, 0, 0, 0, 0, 1],  # Zakladni vzdelani
@@ -19,7 +19,7 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         [0, 0, 0, 0, 1, 0, 0],  # Vyssi odborne
         [0, 1, 0, 0, 0, 0, 0],  # Vysokoskolske bakalarske
         [0, 0, 0, 1, 0, 0, 0],  # Vysokoskolske magisterske (inzenyrske)
-        [0, 0, 1, 0, 0, 0, 0]   # Vysokoskolske doktorske
+        [0, 0, 1, 0, 0, 0, 0]  # Vysokoskolske doktorske
     ]
 
     if edu_lvl == 0:
@@ -41,7 +41,6 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
 
     np_arr2 = np.array(edu_lvl_code)
 
-
     edu_field_codes = [
         # Vseobecny obor (vzdelani) - (Zakladni nebo Gymnazium)
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
@@ -62,7 +61,7 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         # Prirodni vedy - chemie, fyzika, ekologie, matematika,..
         [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
         # Lingvistika, jazykove skoly
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],   # !!!!!!!!!!!OPRAVIT, NEBYLA V DATECH!!!!!!!!!!!!
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],  # !!!!!!!!!!!OPRAVIT, NEBYLA V DATECH!!!!!!!!!!!!
         # Elektrotechnika, mechanika, technika, prumysl (vcetne napr. automechaniku apod.)
         [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Zdravotnictvi, medicina, veterina
@@ -127,13 +126,11 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
     arr = np.concatenate((np_arr1, np_arr2, np_arr3, np_arr4))
     final_array_list = list(arr)
 
-    #pred = model.predict(scaler.transform(np.array([[
-     #   0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 55
-    #]])))
+    pred = model.predict(scaler.transform(np.array([final_array_list])))
 
-    #pred = pred[0]
+    # pred = pred[0]
 
-    return final_array_list
+    return pred
 
 
 app = Flask(__name__)
@@ -155,7 +152,22 @@ def prediction():
 
     results = make_predictions(model=my_model, scaler=my_scaler,
                                gender=gender, age=age, edu_lvl=edu_lvl, edu_field=edu_field)
-    return str(results)
+    return (str(results[0]) + '<br>'
+            + str(results[1]) + '<br>'
+            + str(results[2]) + '<br>'
+            + str(results[3]) + '<br>'
+            + str(results[4]) + '<br>'
+            + str(results[5]) + '<br>'
+            + str(results[6]) + '<br>'
+            + str(results[7]) + '<br>'
+            + str(results[8]) + '<br>'
+            + str(results[9]) + '<br>'
+            + str(results[10]) + '<br>'
+            + str(results[11]) + '<br>'
+            + str(results[12]) + '<br>'
+            + str(results[13]) + '<br>'
+            + str(results[14]) + '<br>'
+            + str(results[15]) + '<br>')
 
 
 if __name__ == '__main__':
