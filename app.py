@@ -108,8 +108,6 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         edu_field_code = edu_field_codes[14]
     elif edu_field == 15:
         edu_field_code = edu_field_codes[15]
-    elif edu_field == 16:
-        edu_field_code = edu_field_codes[16]
     else:
         edu_field_code = [0]
 
@@ -159,8 +157,7 @@ def prediction():
             + str(results[11]) + '<br>'
             + str(results[12]) + '<br>'
             + str(results[13]) + '<br>'
-            + str(results[14]) + '<br>'
-            + str(results[15]) + '<br>')
+            + str(results[14]) + '<br>')
 
 
 if __name__ == '__main__':
