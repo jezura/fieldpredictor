@@ -19,7 +19,7 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         [0, 0, 0, 0, 1, 0, 0],  # Vyssi odborne
         [0, 1, 0, 0, 0, 0, 0],  # Vysokoskolske bakalarske
         [0, 0, 0, 1, 0, 0, 0],  # Vysokoskolske magisterske (inzenyrske)
-        [0, 0, 1, 0, 0, 0, 0]  # Vysokoskolske doktorske
+        [0, 0, 1, 0, 0, 0, 0]   # Vysokoskolske doktorske
     ]
 
     if edu_lvl == 0:
@@ -43,41 +43,37 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
 
     edu_field_codes = [
         # Vseobecny obor (vzdelani) - (Zakladni nebo Gymnazium)
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # IT a management
-        [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Obchod a ekonomie
-        [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Pedagogika, ucitelstvi a telovychova
-        [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        # Teologie
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
         # Filosofie, politologie, historie, psychologie, sociologie, verejna sprava, soc. obory
-        [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Doprava a logistika
-        [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        # Pravo
-        [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Prirodni vedy - chemie, fyzika, ekologie, matematika,..
-        [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
         # Lingvistika, jazykove skoly
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],  # !!!!!!!!!!!OPRAVIT, NEBYLA V DATECH!!!!!!!!!!!!
+        [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Elektrotechnika, mechanika, technika, prumysl (vcetne napr. automechaniku apod.)
-        [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         # Zdravotnictvi, medicina, veterina
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
         # Stavebnictvi
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
         # Zemedelstvi, lesnictvi
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
-        # Obrana a ochrana
-        [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+        # Pravo, obrana a ochrana
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0],
         # Umeni, umelecke skoly (hudba, film, konzervatore, fotograf, grafika, umel. kovar, ..)
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
         # Sluzby, hotelnictvi, gastronomie, cest. ruch (prodavac, kuchar, krejci, kadernice, ..)
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
         # Ostatni nezaraditelna remesla (kovar, tesar, zamecnik, truhlar, ..)
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+        [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
     ]
 
     if edu_field == 0:
@@ -114,8 +110,6 @@ def make_predictions(model, scaler, gender, age, edu_lvl, edu_field):
         edu_field_code = edu_field_codes[15]
     elif edu_field == 16:
         edu_field_code = edu_field_codes[16]
-    elif edu_field == 17:
-        edu_field_code = edu_field_codes[17]
     else:
         edu_field_code = [0]
 
