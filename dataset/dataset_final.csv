@@ -17,7 +17,7 @@ Muz,48,Vysokoskolske_magisterske_inzenyrske,SO_Obecny_prehled_Gymnazium_nebo_ZS,
 Zena,47,Vysokoskolske_magisterske_inzenyrske,SO_Pedagogika_ucitelstvi_telovychova,PO_Vychova_a_vzdelavani,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01
 Zena,50,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,31,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,32,Vyssi_odborne,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
 Muz,28,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,59,Vysokoskolske_magisterske_inzenyrske,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -35,10 +35,10 @@ Zena,22,Vysokoskolske_doktorske,SO_Prirodni_vedy_chemie_fyzika_matematika,PO_Ved
 Zena,20,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,18,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,45,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,22,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
-Muz,43,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
+Muz,43,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,20,Stredoskolske_s_maturitou,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
 Muz,21,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,23,Vysokoskolske_magisterske_inzenyrske,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -69,7 +69,7 @@ Zena,19,Stredoskolske_s_maturitou,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotn
 Zena,26,Vysokoskolske_magisterske_inzenyrske,SO_Informatika_a_management,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,21,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,44,Vyssi_odborne,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
-Zena,20,Vysokoskolske_magisterske_inzenyrske,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Zena,20,Vysokoskolske_magisterske_inzenyrske,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,24,Vysokoskolske_bakalarske,SO_Pedagogika_ucitelstvi_telovychova,PO_Vychova_a_vzdelavani,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01
 Zena,24,Vyssi_odborne,SO_Prirodni_vedy_chemie_fyzika_matematika,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
 Zena,55,Vysokoskolske_magisterske_inzenyrske,SO_Pedagogika_ucitelstvi_telovychova,PO_Vychova_a_vzdelavani,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01
@@ -126,7 +126,7 @@ Zena,49,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictv
 Zena,42,Vyssi_odborne,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
 Zena,40,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
 Zena,41,Vysokoskolske_magisterske_inzenyrske,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Zena,53,Vysokoskolske_magisterske_inzenyrske,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Zena,53,Vysokoskolske_magisterske_inzenyrske,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,23,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,22,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -157,7 +157,7 @@ Muz,36,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumys
 Muz,31,Stredoskolske_s_maturitou,SO_Filosofie_politologie_psychologie_historie_sociologie_verejnasprava_a_ostatni_hum_a_soc_obory,PO_Pravo_obrana_a_ochrana,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,35,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,30,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,39,Vyssi_odborne,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,39,Vyssi_odborne,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,38,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Muz,24,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,47,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
@@ -416,7 +416,7 @@ Zena,46,Vysokoskolske_magisterske_inzenyrske,SO_Filosofie_politologie_psychologi
 Zena,33,Vyssi_odborne,SO_Pedagogika_ucitelstvi_telovychova,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,29,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,28,Vysokoskolske_magisterske_inzenyrske,SO_Zdravotnictvi_medicina_veterina,PO_Veda_a_vyzkum,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01
-Zena,35,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Zena,35,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,24,Stredoskolske_s_maturitou,SO_Pravo_obrana_a_ochrana,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,28,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,51,Vyuceni_nebo_SS_bez_maturity,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
@@ -464,7 +464,7 @@ Muz,31,Vyssi_odborne,SO_Zemedelstvi_a_lesnictvi,PO_Zemedelstvi_a_lesnictvi,0.01,
 Muz,47,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,40,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,57,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,33,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,33,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,49,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,41,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,57,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -499,7 +499,7 @@ Zena,41,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Management,0.01,0.01,0
 Muz,48,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,45,Vyuceni_nebo_SS_bez_maturity,SO_Ostatni_nezaraditelna_remesla,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,32,Stredoskolske_s_maturitou,SO_Pedagogika_ucitelstvi_telovychova,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,57,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
+Muz,57,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,25,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,44,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
@@ -508,7 +508,7 @@ Muz,45,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Vyroba_a_provoz,
 Zena,28,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,48,Vyssi_odborne,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,50,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,61,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,61,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,35,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,21,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,18,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
@@ -535,7 +535,7 @@ Muz,27,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Obchod_a_cestovni_ruch,
 Zena,18,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Zemedelstvi_a_lesnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85
 Muz,25,Vysokoskolske_magisterske_inzenyrske,SO_Zemedelstvi_a_lesnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,27,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,24,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,19,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,49,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -551,7 +551,7 @@ Zena,36,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictv
 Muz,25,Vyuceni_nebo_SS_bez_maturity,SO_Obchod_a_ekonomie,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,27,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,57,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
-Muz,37,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,37,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,39,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,59,Vyuceni_nebo_SS_bez_maturity,SO_Ostatni_nezaraditelna_remesla,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,22,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -638,7 +638,7 @@ Muz,48,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumys
 Muz,19,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Muz,21,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,21,Stredoskolske_s_maturitou,SO_Informatika_a_management,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,18,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Vychova_a_vzdelavani,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01
+Muz,18,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Vychova_a_vzdelavani,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01
 Zena,42,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,26,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,23,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -648,7 +648,7 @@ Zena,24,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictv
 Zena,27,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,24,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,24,Vysokoskolske_magisterske_inzenyrske,SO_Filosofie_politologie_psychologie_historie_sociologie_verejnasprava_a_ostatni_hum_a_soc_obory,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,21,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
+Muz,21,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,39,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,36,Vysokoskolske_magisterske_inzenyrske,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,19,Stredoskolske_s_maturitou,SO_Prirodni_vedy_chemie_fyzika_matematika,PO_Veda_a_vyzkum,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01
@@ -670,7 +670,7 @@ Muz,18,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumys
 Zena,58,Stredoskolske_s_maturitou,SO_Umeni_hudba_foto_film_divadlo_tanec_grafika_umel_kovar,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,23,Stredoskolske_s_maturitou,SO_Informatika_a_management,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,21,Vyuceni_nebo_SS_bez_maturity,SO_Ostatni_nezaraditelna_remesla,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
-Zena,22,Vysokoskolske_bakalarske,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Zena,22,Vysokoskolske_bakalarske,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,23,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,33,Vyssi_odborne,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,47,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
@@ -738,7 +738,7 @@ Muz,46,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,P
 Zena,38,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,50,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,21,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,26,Vysokoskolske_magisterske_inzenyrske,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,26,Vysokoskolske_magisterske_inzenyrske,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,18,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,19,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,23,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -747,7 +747,7 @@ Zena,38,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelni
 Muz,19,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,49,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Zemedelstvi_a_lesnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85
 Zena,36,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,49,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,49,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,48,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,22,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,32,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -794,7 +794,7 @@ Muz,30,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Obchod_a_cestovni_ruch,
 Muz,22,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Pravo_obrana_a_ochrana,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,31,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,21,Stredoskolske_s_maturitou,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
-Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,47,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,50,Vysokoskolske_magisterske_inzenyrske,SO_Pedagogika_ucitelstvi_telovychova,PO_Vychova_a_vzdelavani,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01
 Muz,45,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -817,7 +817,7 @@ Zena,29,Vysokoskolske_magisterske_inzenyrske,SO_Filosofie_politologie_psychologi
 Zena,23,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,20,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,49,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Zemedelstvi_a_lesnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85
-Muz,19,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,19,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,33,Vysokoskolske_bakalarske,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,61,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,22,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -851,7 +851,7 @@ Zena,33,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Finance,0.0
 Zena,40,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,45,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,42,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
-Muz,47,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,47,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,37,Vysokoskolske_magisterske_inzenyrske,SO_Zdravotnictvi_medicina_veterina,PO_Zdravotnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01
 Muz,34,Vysokoskolske_bakalarske,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,35,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
@@ -896,7 +896,7 @@ Muz,23,Vysokoskolske_bakalarske,SO_Filosofie_politologie_psychologie_historie_so
 Muz,21,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Pravo_obrana_a_ochrana,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,19,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Zena,20,Stredoskolske_s_maturitou,SO_Filosofie_politologie_psychologie_historie_sociologie_verejnasprava_a_ostatni_hum_a_soc_obory,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,56,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,56,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,24,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,44,Vyssi_odborne,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,45,Vysokoskolske_bakalarske,SO_Filosofie_politologie_psychologie_historie_sociologie_verejnasprava_a_ostatni_hum_a_soc_obory,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -926,13 +926,13 @@ Zena,38,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelni
 Zena,24,Vysokoskolske_bakalarske,SO_Filosofie_politologie_psychologie_historie_sociologie_verejnasprava_a_ostatni_hum_a_soc_obory,PO_Administrativa,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,46,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,21,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,27,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,27,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,51,Stredoskolske_s_maturitou,SO_Zemedelstvi_a_lesnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Muz,20,Vyuceni_nebo_SS_bez_maturity,SO_Ostatni_nezaraditelna_remesla,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,43,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,37,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,48,Stredoskolske_s_maturitou,SO_Doprava_a_logistika,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,30,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,30,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,37,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Zena,31,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,31,Zakladni_vzdelani,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -941,7 +941,7 @@ Muz,45,Vysokoskolske_magisterske_inzenyrske,SO_Doprava_a_logistika,PO_Vyroba_a_p
 Muz,39,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,27,Vysokoskolske_bakalarske,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,50,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
-Muz,41,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,41,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,36,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,32,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,43,Vysokoskolske_bakalarske,SO_Obchod_a_ekonomie,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -953,9 +953,9 @@ Zena,43,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Administrativa,0.85,0.
 Muz,41,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,20,Vysokoskolske_bakalarske,SO_Doprava_a_logistika,PO_Management,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Zena,23,Vysokoskolske_magisterske_inzenyrske,SO_Filosofie_politologie_psychologie_historie_sociologie_verejnasprava_a_ostatni_hum_a_soc_obory,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
-Muz,35,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
+Muz,35,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,27,Stredoskolske_s_maturitou,SO_Obchod_a_ekonomie,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,30,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
+Muz,30,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,49,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,42,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
@@ -976,7 +976,7 @@ Muz,47,Stredoskolske_s_maturitou,SO_Zemedelstvi_a_lesnictvi,PO_Doprava,0.01,0.85
 Muz,19,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Sluzby,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01
 Muz,26,Vysokoskolske_bakalarske,SO_Informatika_a_management,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,39,Vysokoskolske_bakalarske,SO_Informatika_a_management,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,34,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
+Muz,34,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,41,Stredoskolske_s_maturitou,SO_Zdravotnictvi_medicina_veterina,PO_Pravo_obrana_a_ochrana,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,27,Vysokoskolske_magisterske_inzenyrske,SO_Zemedelstvi_a_lesnictvi,PO_Zemedelstvi_a_lesnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85
 Muz,54,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
@@ -987,8 +987,8 @@ Muz,29,Stredoskolske_s_maturitou,SO_Informatika_a_management,PO_Informacni_techn
 Muz,29,Stredoskolske_s_maturitou,SO_Obecny_prehled_Gymnazium_nebo_ZS,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,18,Stredoskolske_s_maturitou,SO_Informatika_a_management,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,23,Vysokoskolske_magisterske_inzenyrske,SO_Obchod_a_ekonomie,PO_Finance,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,22,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,23,Stredoskolske_s_maturitou,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,22,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,23,Stredoskolske_s_maturitou,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,34,Stredoskolske_s_maturitou,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,46,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,47,Stredoskolske_s_maturitou,SO_Pravo_obrana_a_ochrana,PO_Pravo_obrana_a_ochrana,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01
@@ -999,18 +999,18 @@ Muz,53,Vyuceni_nebo_SS_bez_maturity,SO_Ostatni_nezaraditelna_remesla,PO_Doprava,
 Muz,31,Vyuceni_nebo_SS_bez_maturity,SO_Sluzby_cestovni_ruch_gastronomie_hotelnictvi,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,32,Stredoskolske_s_maturitou,SO_Doprava_a_logistika,PO_Informacni_technologie,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,18,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,45,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
-Muz,30,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,45,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Obchod_a_cestovni_ruch,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,30,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,59,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Pravo_obrana_a_ochrana,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,20,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,28,Vyssi_odborne,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
-Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,47,Vyuceni_nebo_SS_bez_maturity,SO_Ostatni_nezaraditelna_remesla,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
-Muz,40,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,40,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,19,Vyuceni_nebo_SS_bez_maturity,SO_Zemedelstvi_a_lesnictvi,PO_Stavebnictvi,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,20,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,22,Stredoskolske_s_maturitou,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
-Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictví,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Muz,42,Vyuceni_nebo_SS_bez_maturity,SO_Stavebnictvi,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,54,Stredoskolske_s_maturitou,SO_Pedagogika_ucitelstvi_telovychova,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
 Muz,24,Vysokoskolske_magisterske_inzenyrske,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Vyroba_a_provoz,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.85,0.01,0.01,0.01
 Muz,36,Vyuceni_nebo_SS_bez_maturity,SO_Elektrotechnika_technika_mechanika_prumysl,PO_Doprava,0.01,0.85,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
